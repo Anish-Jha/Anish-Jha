@@ -16,7 +16,7 @@ I'm a first year BCA student also pursuing Full stack web development and a pass
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://img.icons8.com/color/48/4a90e2/html.png"/><img src="https://img.icons8.com/color/48/4a90e2/css3.png"/><img src="https://img.icons8.com/color/48/4a90e2/javascript.png"/><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/><img width="53px" src="https://img.icons8.com/plasticine/100/null/react.png"/>
-<img src="https://img.icons8.com/color/48/null/chakra-ui.png"/></p>
+<img src="https://img.icons8.com/color/48/null/chakra-ui.png"/><img src="https://img.icons8.com/ios-filled/50/5C7CFA/redux.png"/></p>
 
 <br>
 
