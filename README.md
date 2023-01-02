@@ -20,17 +20,10 @@ I'm a first year BCA student also pursuing Full stack web development and a pass
 
 <br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anish-Jha)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-Jha)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anish-Jha&show_icons=true)  
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anish-Jha)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Anish-Jha)  
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-Jha&layout=compact)](https://github.com/Anish-Jha/github-readme-stats)
 
  
  <!---
