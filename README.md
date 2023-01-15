@@ -25,7 +25,7 @@ I'm a first year BCA student also pursuing Full stack web development and a pass
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anish-Jha&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-Jha&layout=compact&theme=radical)](https://github.com/Anish-Jha/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-Jha&show_icons=true&theme=radical&layout=compact)
 
  <!---
 Credit: [Anish-Jha](https://github.com/Anish-Jha) --->
