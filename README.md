@@ -1,5 +1,5 @@
 <h1>Hey there, I'm <a  href="https://anish-jha.vercel.app/">Anish Jha</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-👀https://anish-jha.github.io/
+👀https://anish-jha.vercel.app/
  
 [![linkedin badge](https://img.shields.io/badge/anishjha-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/anishjha18)
 [![Gmail Badge](https://img.shields.io/badge/ztech818@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:ztech818@gmail.com)
