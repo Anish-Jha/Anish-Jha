@@ -25,11 +25,6 @@ I leverage a diverse toolkit of technologies and skills to deliver high-quality,
 
 <br>
 
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Anish-Jha&theme=radical)  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anish-Jha&show_icons=true&theme=radical)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-Jha&show_icons=true&theme=radical&layout=compact)
 
  <!---
