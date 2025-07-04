@@ -2,8 +2,8 @@
 <h1 align="center">Hey, I'm <a href="https://anish-jha.vercel.app/">Anish Jha</a> 👋</h1>
 
 <p align="center">
-  <a href="https://anish-jha.vercel.app/">🌐 Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/anishjha18">💼 LinkedIn</a> • 
+  <a href="https://anish-jha.vercel.app/" target="_blank">🌐 Portfolio</a> • 
+  <a href="https://www.linkedin.com/in/anish-jha7" target="_blank">💼 LinkedIn</a> • 
   <a href="mailto:ztech818@gmail.com">✉️ Email</a>
 </p>
 
