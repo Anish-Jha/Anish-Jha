@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Developer** based in Delhi, India, focused on building thoughtful, scalable technology. Currently, I’m contributing to **Decast**, a decentralized platform for live casting, storage, and knowledge sharing — where I work on web extensions, secure DID authentication, and AI-powered features.
+I'm a passionate **Full Stack Developer** based in Delhi, India, focused on building thoughtful, scalable technology. Currently, I’m contributing to **Decast**, a decentralized platform for live casting, storage, and knowledge sharing — where I work on Frontend, Backend, web extensions, secure DID authentication, and AI-powered features.
 
 Beyond code, I care deeply about user experience and product feel. I enjoy solving real-world problems with intuitive, accessible, and modern tech.
 
